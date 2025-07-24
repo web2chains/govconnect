@@ -4,6 +4,8 @@ A Blockchain-Based Digital Voting Platform powered by Internet Computer and Moto
 
 Developed by Web2Chain
 
+![Image](https://i.ibb.co/b599hZNx/govconnect.jpg)
+
 ## Overview
 
 GovConnect is a blockchain-powered digital voting platform developed to address the core challenges of Indonesia’s electoral process. Traditional elections in the country suffer from inefficiencies, high logistical costs, lack of transparency, and limited accessibility in remote areas. Moreover, only 58% of citizens fully trust election results (Kompas R&D, 2024), indicating a critical need for modernization.
