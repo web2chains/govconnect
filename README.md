@@ -14,7 +14,7 @@ GovConnect offers a secure, transparent, cost-efficient, and scalable solution. 
 
 ### Key Features
 - Digital E-KTP: A blockchain-based voter ID system accessible only to the verified owner.
-- Verified Candidate Profiles: Each candidate is presented with a verifiable mission, track record, and identity.
+- Real-Time Voting Analytics: Live visualizations of vote counts, percentages, and regional distributions to ensure transparent and informed monitoring of the election process.
 - Smart Contract-Based Voting: Every vote is executed transparently and automatically on-chain.
 - Multi-Layer Authentication: Combines biometric and email-based verification to prevent identity fraud and double voting.
 - Immutable Vote Ledger: Votes are permanently recorded on the blockchain, enabling public auditability.
@@ -79,7 +79,6 @@ Technical Resources and Project Assets
 - Business Overview Document: [Business Overview PDF or Link]
 - Business Model Canvas : [Business Model Canvas Link or PDF]
 - Voting Flow Diagram: [Flow Diagram Link]
-- Setup Guide: [Setup Documentation Link]
 - User Guidebook: [Usage Documentation Link]
 - Demo Video App : [Link Video]
 
