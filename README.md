@@ -54,7 +54,7 @@ GovConnect is developed using modular, decentralized technologies native to the 
 - Voter Verification: NIK & identity form matching, plus optional biometrics confirmation
 
 ## Development Team – Web2Chain
-- Zahir Hadi Athallah [Jakarta State Polytechnic] – Backend & Blockchain Security
+- Zahir Hadi Athallah [State Polytechnic of Jakarta] – Backend & Blockchain Security
   
 Leads secure backend integration with blockchain protocols.
 
@@ -70,7 +70,7 @@ Ensures robust backend architecture and high-performance deployment.
   
 Creates intuitive user flows and modern design experiences.
 
-- Puji Sulaiman [Jakarta State Polytechnic] – Frontend Development & Business Strategy
+- Puji Sulaiman [State Polytechnic of Jakarta] – Frontend Development & Business Strategy
   
 Focuses on seamless multi-device compatibility, visual coherence, and leads the creation of strategic documents such as pitch decks, business overviews, and market positioning materials.
 Technical Resources and Project Assets
