@@ -78,7 +78,7 @@ Technical Resources and Project Assets
 - Source Code : https://github.com/web2chains/govconnect
 - Business Overview Document: [View File](https://drive.google.com/file/d/13dXv9ofFp088zu-bY3hMETTU9zM9zj9v/view?usp=sharing)
 - Business Model Canvas : [View BMC](https://drive.google.com/file/d/1jKiH1A3h-TIZjYjRroujOUZmzJDmOSDv/view?usp=sharing)
-- Voting Flow Diagram: [View Flow]
+- Voting Flow Diagram: [View Flow](https://drive.google.com/file/d/13GCeelROKD8QZMq46GAMQr4w8ZoOUVe-/view?usp=drivesdk)
 - User Guidebook: [View Guide](https://drive.google.com/file/d/1-HR3pJSEs1kiNMNz5uBJZdDM586DGAOe/view?usp=drivesdk)
 - Demo Video App : [Watch Video](https://drive.google.com/file/d/1JfxWxkhimUwe8OrTENkg-6rBZBTqBN7W/view?usp=sharing)
 
