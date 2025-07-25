@@ -76,11 +76,11 @@ Focuses on seamless multi-device compatibility, visual coherence, and leads the 
 Technical Resources and Project Assets
 
 - Source Code : https://github.com/web2chains/govconnect
-- Business Overview Document: [Business Overview PDF or Link]
-- Business Model Canvas : [Business Model Canvas Link or PDF]
-- Voting Flow Diagram: [Flow Diagram Link]
-- User Guidebook: [Usage Documentation Link]
-- Demo Video App : [Link Video]
+- Business Overview Document: [View File](https://drive.google.com/file/d/13dXv9ofFp088zu-bY3hMETTU9zM9zj9v/view?usp=sharing)
+- Business Model Canvas : [View BMC](https://drive.google.com/file/d/1jKiH1A3h-TIZjYjRroujOUZmzJDmOSDv/view?usp=sharing)
+- Voting Flow Diagram: [View Flow]
+- User Guidebook: [View Guide]
+- Demo Video App : [Watch Video](https://drive.google.com/file/d/1JfxWxkhimUwe8OrTENkg-6rBZBTqBN7W/view?usp=sharing)
 
 All technical and non-technical materials are accessible for review and demonstration.
 
