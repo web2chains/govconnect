@@ -80,7 +80,7 @@ Technical Resources and Project Assets
 - Business Model Canvas : [View BMC](https://drive.google.com/file/d/1jKiH1A3h-TIZjYjRroujOUZmzJDmOSDv/view?usp=sharing)
 - Voting Flow Diagram: [View Flow](https://drive.google.com/file/d/13GCeelROKD8QZMq46GAMQr4w8ZoOUVe-/view?usp=drivesdk)
 - User Guidebook: [View Guide](https://drive.google.com/file/d/1-HR3pJSEs1kiNMNz5uBJZdDM586DGAOe/view?usp=drivesdk)
-- Demo Video App : [Watch Video](https://drive.google.com/file/d/1JfxWxkhimUwe8OrTENkg-6rBZBTqBN7W/view?usp=sharing)
+- Demo Video App : [Watch Video](https://youtu.be/dFe9ZAxEuPc)
 
 All technical and non-technical materials are accessible for review and demonstration.
 
